@@ -9,6 +9,9 @@ header{
 }
  nav{
    position: absolut;
+   top: 110px;
+   rigth: 0;
+ }
 navi li{
   display: inline;
   margin: 0 0 0 15px;
