@@ -7,6 +7,8 @@ header{
   width: 940px;
   margin: 0 auto;
 }
+ nav{
+   position: absolut;
 navi li{
   display: inline;
   margin: 0 0 0 15px;
