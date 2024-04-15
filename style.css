@@ -7,7 +7,7 @@ body {
 #banner {
   width: 100%;
 }
-.principal{
+.principal {
   background-color: #808080;
   padding: 80px;
 }
@@ -26,22 +26,22 @@ p {
  #missao { 
 font-size: 30px;
 }
-.itens{
+.itens {
   font-style: italic;
 }
 .beneficios{
   background: #FFFFFF;
   padding: 40px;
 }
-h2{
+h2 {
   text align: center;
 }
-ul{
+ul {
   display: inline-block;
   vertical-align: top;
   width: 0%;
   margin-right: 15%;
 }
-.imagem-beneficios{
+.imagem-beneficios {
   width: 50%
 }
